@@ -128,7 +128,6 @@ tTabuleiro atualizaTabuleiro(tTabuleiro tab, char l, int c){
     return tab;
 }
 
-
 int main(){
     char l, jogada, game = 's';
     int c;
