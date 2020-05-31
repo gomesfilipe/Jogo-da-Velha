@@ -9,4 +9,4 @@ gcc jogoDaVelha.c -o jogoDaVelha
 ```
 
 ## TODO
-- [] Personalizar o README
+- [ ] Personalizar o README
